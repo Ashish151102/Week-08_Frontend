@@ -1,4 +1,3 @@
-package day1jsconstructs.casestatements.digitinword;
 
 let number = parseInt(process.argv[2]); // Command-line input
 
